@@ -1,4 +1,4 @@
-package br.com.jacksontenorio8;
+package br.com.jacksontenorio8.singleton;
 
 /*
 * Sigleton "pregiçoso",
